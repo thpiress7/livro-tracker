@@ -32,5 +32,5 @@ O **LivroTracker** permite aos usuários gerenciar sua coleção de livros de ma
 Primeiro, clone o repositório para sua máquina local:
 
 ```bash
-git clone https://github.com/SEU_USUARIO/LivroTracker.git
+git clone https://github.com/thpiress7/livro-tracker
 cd LivroTracker
